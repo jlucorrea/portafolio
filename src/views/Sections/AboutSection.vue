@@ -3,7 +3,6 @@
 </script>
 
 <template>
-	<!--===== ABOUT =====-->
 	<section class="about section " id="about">
 		<h2 class="section-title">Sobre mi</h2>
 		<div class="about__container bd-grid">

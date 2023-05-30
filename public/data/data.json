@@ -1,0 +1,61 @@
+[
+  {
+    "id": 1,
+    "title": "Sistema de Ventas",
+    "url": "/src/assets/images/img-systems/sys1.png",
+    "srcList": [
+      "/src/assets/images/img-systems/sys1.png",
+      "/src/assets/images/img-systems/sys2.png",
+      "/src/assets/images/img-systems/sys3.png",
+      "/src/assets/images/img-systems/sys3.5.png",
+      "/src/assets/images/img-systems/sys4.png",
+      "/src/assets/images/img-systems/sys5.png"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Ecommerce - Vue 3",
+    "url": "/src/assets/images/img-ecommerce/ec1.png",
+    "srcList": [
+      "/src/assets/images/img-ecommerce/ec1.png",
+      "/src/assets/images/img-ecommerce/ec2.png",
+      "/src/assets/images/img-ecommerce/ec3.png"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Iderma Capilar",
+    "url": "/src/assets/images/img-iderma/id1.png",
+    "srcList": [
+      "/src/assets/images/img-iderma/id1.png",
+      "/src/assets/images/img-iderma/id2.png",
+      "/src/assets/images/img-iderma/id3.png",
+      "/src/assets/images/img-iderma/id4.png",
+      "/src/assets/images/img-iderma/id5.png"
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Lavetsur",
+    "url": "/src/assets/images/img-lavetsur/lab1.png",
+    "srcList": [
+      "/src/assets/images/img-lavetsur/lab1.png",
+      "/src/assets/images/img-lavetsur/lab2.png",
+      "/src/assets/images/img-lavetsur/lab3.png",
+      "/src/assets/images/img-lavetsur/lab4.png"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Sistema de Asistencia",
+    "url": "/src/assets/images/img-metronic/mt2.png",
+    "srcList": [
+      "/src/assets/images/img-metronic/mt2.png",
+      "/src/assets/images/img-metronic/mt1.png",
+      "/src/assets/images/img-metronic/mt3.png",
+      "/src/assets/images/img-metronic/mt4.png",
+      "/src/assets/images/img-metronic/mt5.png",
+      "/src/assets/images/img-metronic/mt6.png"
+    ]
+  }
+]
