@@ -2,10 +2,10 @@
   {
     "id": 1,
     "title": "Sistema de Ventas",
-    "url": "/src/assets/images/img-systems/sys1.png",
+    "url": "assets/images/img-systems/sys1.png",
     "srcList": [
-      "/src/assets/images/img-systems/sys1.png",
-      "/src/assets/images/img-systems/sys2.png",
+      "assets/images/img-systems/sys1.png",
+      "assets/images/img-systems/sys2.png",
       "/src/assets/images/img-systems/sys3.png",
       "/src/assets/images/img-systems/sys3.5.png",
       "/src/assets/images/img-systems/sys4.png",
