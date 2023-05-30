@@ -7,7 +7,7 @@
 		<div class="home__data">
 			<h1 class="home__title">Hola,<br>Soy <span class="home__title-color">Jorge</span><br> Desarrollador Web
 			</h1>
-			<a href="#" class="button ">Descargar CV <i class='bx bx-download'></i></a>
+			<a href="https://www.linkedin.com/in/jlucorrea/" target="_blank" class="button ">Contactame </a>
 		</div>
 		<div class="home__social">
 			<a href="https://www.linkedin.com/in/jlucorrea/" target="_blank" class="home__social-icon"><i class='bx bxl-linkedin'></i></a>

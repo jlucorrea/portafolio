@@ -5,7 +5,7 @@ const ImagesPortal = ref<Images[]>([]);
 
 const getData = async () => {
 	try {
-		const response = await fetch('public/data/data.json');
+		const response = await fetch('data/data.json');
 		const data = await response.json();
 		ImagesPortal.value = data;
 	} catch (error) {
